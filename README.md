@@ -1,6 +1,11 @@
-# React Native Ninja Library 📚
+# Ninja Library 📚
 
-![exporeactnative](https://miro.medium.com/max/1838/1*XLPUfIkmIA01h1D0ti-wJw.png)
+<p align="center">
+  <img width="200" src="./src/assets/icon/bookshelf.png"/>
+</p>
+<p align="center">
+  Built with React Native.
+</p>
 
 
 ## Features
