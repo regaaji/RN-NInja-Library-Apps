@@ -7,6 +7,8 @@
   Built with React Native.
 </p>
 
+## What is Ninja Library ?
+<b>Ninja Library</b> is a platform that provides various genre of books that can be borrowed and returned by readers
 
 ## Features
 
