@@ -1,4 +1,4 @@
-# React Native IPBLibrary Expo 📚
+# React Native Ninja Library 📚
 
 ![exporeactnative](https://miro.medium.com/max/1838/1*XLPUfIkmIA01h1D0ti-wJw.png)
 
