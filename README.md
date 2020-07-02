@@ -15,7 +15,7 @@
 - [Usage](#usage-for-development)
 - [Release APK](#release-apk)
 - [Related Project](#related-project-backend)
-- [Screenshots](#screenshots))
+- [Screenshots](#screenshots)
 
 ## Introduction
 <b>Ninja Library</b> is a platform that provides various genre of books that can be borrowed and returned by readers
